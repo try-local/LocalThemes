@@ -3,28 +3,12 @@
         "name": "Light Theme",
         "description": "A clean and minimal light theme with soft colors.",
         "cssUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/themes/light-theme.css",
-        "imageUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/images/light-theme-preview.png",
-        "metadata": {
-            "primaryColor": "#ffffff",
-            "secondaryColor": "#f0f0f0"
-        },
-        "author": {
-            "username": "System",
-            "avatarUrl": "/images/theme-master-avatar.png"
-        }
+        "imageUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/images/light-theme-preview.png"
     },
     {
         "name": "Dark Theme",
         "description": "A sleek and modern dark theme for night mode lovers.",
         "cssUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/themes/dark-theme.css",
-        "imageUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/images/dark-theme-preview.png",
-        "metadata": {
-            "primaryColor": "#121212",
-            "secondaryColor": "#1e1e1e"
-        },
-        "author": {
-            "username": "System",
-            "avatarUrl": "/images/dark-lord-avatar.png"
-        }
+        "imageUrl": "https://raw.githubusercontent.com/try-local/Cloud/refs/heads/main/images/dark-theme-preview.png"
     }
 ]
