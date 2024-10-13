@@ -1,1 +1,30 @@
-[{"name":"Twilight","description":"BotForge's default theme, immerses users in a dark mode with enchanting shades of purple, evoking the remnants of ancient magic.","metadata":{"color":"#0b072a","image":"https://i.imgur.com/eA5U5ay.png"},"cssUrl":"https://raw.githubusercontent.com/tryforge/Cloud/refs/heads/main/themes/Berk404/Twilight.css","avatarUrl":"https://avatars.githubusercontent.com/u/68653647?v=4","username":"Berk404"},{"name":"Dark","description":"Reduce eye strain with our Dark theme's subdued colors.","metadata":{"color":"#c0c0c0","image":"https://i.imgur.com/9jeC1zU.png"},"cssUrl":"https://raw.githubusercontent.com/tryforge/Cloud/refs/heads/main/themes/Berk404/Dark.css","avatarUrl":"https://avatars.githubusercontent.com/u/68653647?v=4","username":"Berk404"},{"name":"Light","description":"A clean, modern and definitely bright theme for people with optimal eye condition.","metadata":{"color":"#ffffff","image":"https://i.imgur.com/Jo2hggY.png"},"cssUrl":"https://raw.githubusercontent.com/tryforge/Cloud/refs/heads/main/themes/Berk404/Light.css","avatarUrl":"https://avatars.githubusercontent.com/u/68653647?v=4","username":"Berk404"},{"name":"Amoled","description":"Perfect for users with AMOLED screens or those who appreciate a sleek, stylish interface.","metadata":{"color":"#000000","image":"https://i.imgur.com/Yf957XQ.png"},"cssUrl":"https://raw.githubusercontent.com/tryforge/Cloud/refs/heads/main/themes/Berk404/Amoled.css","avatarUrl":"https://avatars.githubusercontent.com/u/68653647?v=4","username":"Berk404"},{"name":"Amity","description":"Amity brings a sense of harmony to your interface with its calming purple tones, perfect for creating a serene experience while coding.","metadata":]
+[
+    {
+        "name": "Light Theme",
+        "description": "A clean and minimal light theme with soft colors.",
+        "cssUrl": "/themes/light-theme.css",
+        "imageUrl": "/images/light-theme-preview.png",
+        "metadata": {
+            "primaryColor": "#ffffff",
+            "secondaryColor": "#f0f0f0"
+        },
+        "author": {
+            "username": "System",
+            "avatarUrl": "/images/theme-master-avatar.png"
+        }
+    },
+    {
+        "name": "Dark Theme",
+        "description": "A sleek and modern dark theme for night mode lovers.",
+        "cssUrl": "/themes/dark-theme.css",
+        "imageUrl": "/images/dark-theme-preview.png",
+        "metadata": {
+            "primaryColor": "#121212",
+            "secondaryColor": "#1e1e1e"
+        },
+        "author": {
+            "username": "System",
+            "avatarUrl": "/images/dark-lord-avatar.png"
+        }
+    }
+]
